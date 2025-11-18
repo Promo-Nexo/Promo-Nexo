@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Achadinhos Shopee — Promoções</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="logo" href="#">Promo<span>Nexo</span></a>
+
+      <nav class="nav">
+        <button class="nav-toggle" id="toggle-nav">☰</button>
+        <ul class="nav-list" id="nav-list">
+          <li><button class="cat-btn active" data-cat="all">Todos</button></li>
+          <li><button class="cat-btn" data-cat="presentear">Presentear</button></li>
+          <li><button class="cat-btn" data-cat="casa">Casa</button></li>
+          <li><button class="cat-btn" data-cat="tecnologia">Tecnologia</button></li>
+          <li><button class="cat-btn" data-cat="moda">Moda</button></li>
+          <li><button class="cat-btn" data-cat="natal">Natal</button></li>
+        </ul>
+      </nav>
+    </div>
+
+    <div class="search-bar container">
+      <input id="search-input" type="search" placeholder="Pesquisar produtos, ex: fone bluetooth..." />
+      <select id="sort-select" aria-label="Ordenar">
+        <option value="relevance">Mais relevantes</option>
+        <option value="price-asc">Preço ↑</option>
+        <option value="price-desc">Preço ↓</option>
+      </select>
+    </div>
+  </header>
+
+  <main class="container main-content">
+    <section id="results-info" class="results-info">Carregando produtos...</section>
+
+    <section id="products-grid" class="grid"></section>
+
+    <div id="no-results" class="no-results" hidden>
+      Nada encontrado. Tente outro termo ou categoria.
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <small>© <span id="year"></span> PromoFlash — Links de afiliados. Sempre verifique o preço na loja.</small>
+    </div>
+  </footer>
+
+  <script src="cards.js">
+  </script>
+</body>
+</html>
