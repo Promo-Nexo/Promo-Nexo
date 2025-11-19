@@ -1,5 +1,584 @@
 [
   {
+    "nome": "Espelho Grande de Parede Corpo Inteiro",
+    "preco": "R$ 85,90",
+    "imagem": "https://down-zl-br.img.susercontent.com/br-11134207-7r98o-mcrucn9xl62ped.webp",
+    "link": "https://s.shopee.com.br/3fvyKlohYw",
+    "categoria": "casa",
+    "descricao": "Espelho Grande de Parede Corpo Inteiro Moderno Varios Modelos"
+  },
+  {
+    "nome": "Moletom Canguru Com Capuz Basquete",
+    "preco": "R$ 78,99",
+    "imagem": "https://down-zl-br.img.susercontent.com/br-11134207-7r98o-m86bhzm25yi9b9.webp",
+    "link": "https://s.shopee.com.br/6KwjVn6WHl",
+    "categoria": "Moda",
+    "descricao": "Moletom Canguru Com Capuz Basquete LA Streetwear Personalizado"
+  },
+  {
+    "nome": "Jogo de 6 Taças de Vidro Diamond",
+    "preco": "R$ 39,99",
+    "imagem": "https://down-zl-br.img.susercontent.com/sg-11134201-7rbm4-lqqc9g8sb9uq05.webp",
+    "link": "https://s.shopee.com.br/9AGut1m7u8",
+    "categoria": "Casa",
+    "descricao": "Jogo de 6 Taças de Vidro Diamond Transparente Ambar Furta Cor Verde Azul Fume Bico De Jaca 330ml"
+  },
+  {
+    "nome": "Kit 10 Potes de Tempero 200ml",
+    "preco": "R$ 18,89",
+    "imagem": "https://down-zl-br.img.susercontent.com/br-11134207-81z1k-mgaz1y8tfu9x30.webp",
+    "link": "https://s.shopee.com.br/7AVqVXotPA",
+    "categoria": "Casa",
+    "descricao": "Kit 10 Potes de Tempero 200ml + Cartela com 42 Adesivos | Porta Tempero de Vidro | Pote para Tempero"
+  },
+  {
+    "nome": "Robô Varredora/Aspirador De Pó",
+    "preco": "R$ 42,99",
+    "imagem": "https://down-zl-br.img.susercontent.com/sg-11134201-7repe-m1stbeleifr843.webp",
+    "link": "https://s.shopee.com.br/5fh2iqfmwQ",
+    "categoria": "casa",
+    "descricao": "Robô Varredora/Aspirador De Pó Automática 3 Em 1 Limpeza Doméstica Robótico Inteligente E Silencioso"
+  },
+  {
+    "nome": "Marmita Elétrica Veicular",
+    "preco": "R$ 44,99",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-map97tz2m5tl87.webp",
+    "link": "https://s.shopee.com.br/804xVAwQX5",
+    "categoria": "tecnologia",
+    "descricao": "Marmita Elétrica Veicular- Aquece em 30 Min | 110V/220V e 12V/24V | Prática e Portátil"
+  },
+  {
+    "nome": "Principia Kit Anti-Acne",
+    "preco": "R$ 116,92",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-lyciw5dk5cph89.webp",
+    "link": "https://s.shopee.com.br/VywZSaYvh",
+    "categoria": "Moda",
+    "descricao": "Principia Kit Anti-Acne Trio Gel de Limpeza GL-01 + Sérum Mix-01 + Protetor Solar Facial PS-01"
+  },
+  {
+    "nome": "Liquidificador 3 velocidades",
+    "preco": "R$ 100,00",
+    "imagem": "https://down-zl-br.img.susercontent.com/sg-11134201-824jj-mfezxbevdhcc0d.webp",
+    "link": "https://s.shopee.com.br/6pt079tEl5",
+    "categoria": "Casa",
+    "descricao": "Liquidificador 3 velocidades Turbo Power preto - L-99FB - Mondial"
+  },
+  {
+    "nome": "Escova de Limpeza 5 em 1",
+    "preco": "R$ 26,98",
+    "imagem": "https://down-zl-br.img.susercontent.com/br-11134207-7r98o-m1rnvbwxfwncd7.webp",
+    "link": "https://s.shopee.com.br/2B7AYdVrHI",
+    "categoria": "Casa",
+    "descricao": "Escova de Limpeza 5 em 1 Sem Fio Limpador Multiuso Prático Com Mais Duas Cabeças de Escova"
+  },
+  {
+    "nome": "Frigideira Antiaderente 4 Partes Ovo ",
+    "preco": "R$ 37,89",
+    "imagem": "https://down-zl-br.img.susercontent.com/sg-11134201-7rdxl-ly5gce3lti2f62.webp",
+    "link": "https://s.shopee.com.br/4LBf8fHzyF",
+    "categoria": "Casa",
+    "descricao": "Frigideira Antiaderente 4 Partes Ovo Hambúrguer"
+  },
+  {
+    "nome": "Cesto De Roupa Suja Bambu 72 Litros",
+    "preco": "R$ 59,90",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-m2387n4cm3fo30.webp",
+    "link": "https://s.shopee.com.br/9pWbgpV2vQ",
+    "categoria": "Casa",
+    "descricao": "Cesto De Roupa Suja Bambu 72 Litros Lavanderia Com Tampa e Alças Forrado Grande Organizador Banheiro"
+  },
+  {
+    "nome": "Caixa De Som Para PC Subwoofer",
+    "preco": "R$ 67,53",
+    "imagem": "https://down-bs-br.img.susercontent.com/sg-11134201-7rce9-lsh1o7ny0msm6e.webp",
+    "link": "https://s.shopee.com.br/2Vk0xPDHY4",
+    "categoria": "tecnologia",
+    "descricao": "Caixa De Som Para PC Subwoofer Soundbar LED RGB Tv Computador Notebook"
+  },
+  {
+    "nome": "Kit 6 Peças Conjunto de Faca",
+    "preco": "R$ 19,98",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-lwy87au2sc736b.webp",
+    "link": "https://s.shopee.com.br/7fS7718Nri",
+    "categoria": "Casa",
+    "descricao": "Kit 6 Peças Conjunto de Faca Churrasco Carne Legumes Descascador Tesoura Profissional"
+  },
+  {
+    "nome": "Pote de Vidro Hermético Âmbar",
+    "preco": "R$ 49,90",
+    "imagem": "https://down-bs-br.img.susercontent.com/sg-11134201-7renm-m8gphx4fyoqod0.webp",
+    "link": "https://s.shopee.com.br/2qMrMDOlS1",
+    "categoria": "Casa",
+    "descricao": "Pote de Vidro Hermético Âmbar Transparente Coração Decor Afeto Porta Mantimentos Decorativo Cozinha"
+  },
+  {
+    "nome": "Smartwatch X9 Pro",
+    "preco": "R$ 79,88",
+    "imagem": "https://down-bs-br.img.susercontent.com/sg-11134201-7rdw5-ly4sik99nn6wf4.webp",
+    "link": "https://s.shopee.com.br/BM6BMXhkN",
+    "categoria": "tecnologia",
+    "descricao": "Relógio Smartwatch Original X9 Pro Série 45mm, GPS, NFC, Monitor de Pressão Arterial – São Paulo, Estoque Disponível"
+  },
+  {
+    "nome": "Projetor 4K HD",
+    "preco": "R$ 178,99",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-81z1k-meph30jn0vszaa.webp",
+    "link": "https://s.shopee.com.br/3VcY9WkfqT",
+    "categoria": "tecnologia",
+    "descricao": "Projetor 4K HD 150 Polegadas Celular, Xbox, PS, Pc, Wifi HY300 Pro Magcubic Envio Imediato"
+  },
+  {
+    "nome": "kit Coala Home Chá Branco",
+    "preco": "R$ 69,99",
+    "imagem": "https://down-bs-br.img.susercontent.com/sg-11134201-7rdwg-m0j6jm49q7nyd4.webp",
+    "link": "https://s.shopee.com.br/6pt07iny12",
+    "categoria": "Casa",
+    "descricao": "kit Coala Home Chá Branco"
+  },
+  {
+    "nome": "Parafusadeira Furadeira 48V 2 Baterias",
+    "preco": "R$ 97,99",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-mais3ro9u9vzc0.webp",
+    "link": "https://s.shopee.com.br/2Vk0xqFdwb",
+    "categoria": "presentear",
+    "descricao": "Parafusadeira Furadeira 48V 2 Baterias Com Maleta e Acessorios Completo"
+  },
+  {
+    "nome": "Cooler Multifuncional 3 em 1",
+    "preco": "R$ 229,90",
+    "imagem": "https://down-bs-br.img.susercontent.com/sg-11134201-7rcde-lrytyovrlb7o72.webp",
+    "link": "https://s.shopee.com.br/804xVzbpFA",
+    "categoria": "Casa",
+    "descricao": "Cooler Multifuncional 3 em 1 - Super Térmica com 2 Mesas Integradas - 32 Litros (Não tem banquinho)"
+  },
+  {
+    "nome": "Fatiador Profissional Multifuncional",
+    "preco": "R$ 35,80",
+    "imagem": "https://down-bs-br.img.susercontent.com/cn-11134207-7ras8-mbhvo90jyekt52.webp",
+    "link": "https://s.shopee.com.br/9AGuuJBLGQ",
+    "categoria": "Casa",
+    "descricao": "Fatiador Profissional Multifuncional De Aço Inoxidável 16 Em 1 Para Vegetais/Frutas/Legumes"
+  },
+  {
+    "nome": "Conjunto Feminino Bata Mula",
+    "preco": "R$ 59,96",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-81z1k-mgh50x1uoi6fce.webp",
+    "link": "https://s.shopee.com.br/6KwjX9GaM6",
+    "categoria": "Moda",
+    "descricao": "Conjunto Feminino Bata Mula Manca Suplex Com Bojo Cintura Alta Elegante"
+  },
+  {
+    "nome": "Kit skin care limpeza de pele",
+    "preco": "R$ 47,90",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-lxwrg2qmpuwv60.webp",
+    "link": "https://s.shopee.com.br/4foVY93eCT",
+    "categoria": "Moda",
+    "descricao": "Kit skin care limpeza de pele rosa mosqueta"
+  },
+  {
+    "nome": "Garrafa Térmica 1 Litro Com Termômetro",
+    "preco": "R$ 37,90",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-md31d5dvdiya2a.webp",
+    "link": "https://s.shopee.com.br/5VNcXjcrNY",
+    "categoria": "Casa",
+    "descricao": "Garrafa Térmica de água / Café 1 Litro Com Termômetro Led Para Chás / Café Design Moderno Cabo Madeira"
+  },
+  {
+    "nome": "Aspirador De Pó Preto Usb Portátil",
+    "preco": "R$ 25,99",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7qukw-lgnnrx41wbeece.webp",
+    "link": "https://s.shopee.com.br/AA9S6MxY6E",
+    "categoria": "tecnologia",
+    "descricao": "Aspirador De Pó Preto Usb Portátil Completo Linha Premium Carro E Casa 2000mAh"
+  },
+  {
+    "nome": "Porta Temperos",
+    "preco": "R$ 35,98",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-81z1k-mh6ltag82m0w39.webp",
+    "link": "https://s.shopee.com.br/4VV5M00JJg",
+    "categoria": "Casa",
+    "descricao": "Porta Temperos Profissional Giratório 12 Potes Vidro OFERTA com Tampa Dosadora Condimentos Imediato"
+  },
+  {
+    "nome": "Kit 3 Calça Jeans Skinny Masculina",
+    "preco": "R$ 54,99",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-lypz79pnedn990.webp",
+    "link": "https://s.shopee.com.br/70CQKdpVsT",
+    "categoria": "Moda",
+    "descricao": "Kit 3 Calça Jeans Skinny Masculina Com Lycra Estica Muito Nf super promoção"
+  },
+  {
+    "nome": "Livro de colorir STITCH + Canetinhas ",
+    "preco": "R$ 22,50",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-81z1k-meouiknxvzsw42.webp",
+    "link": "https://s.shopee.com.br/6VG9jmCGtp",
+    "categoria": "presentear",
+    "descricao": "Livro de colorir STITCH + Canetinhas / 50 Folhas / Capa Holográfica"
+  },
+  {
+    "nome": "Bandeja Organizadora Decorativa Multiuso",
+    "preco": "R$ 27,90",
+    "imagem": "https://down-bs-br.img.susercontent.com/cn-11134207-7ras8-m91blizby6cy0e.webp",
+    "link": "https://s.shopee.com.br/9KaL71n4g7",
+    "categoria": "Casa",
+    "descricao": "Bandeja Organizadora Decorativa Multiuso Para Servir Nórdica Com Alça e Detalhe em Dourado Decoração de Mesa"
+  },
+  {
+    "nome": "Lavadora de Alta Pressão Portátil",
+    "preco": "R$ 52,99",
+    "imagem": "https://down-bs-br.img.susercontent.com/cn-11134207-7ras8-maceqwjqz50ob8.webp",
+    "link": "https://s.shopee.com.br/6KwjXeun6H",
+    "categoria": "Casa",
+    "descricao": "Lavadora de Alta Pressão Portátil Recarregável Para Carros E Jardins Linha Premium Pistola Lava Jato Profissional"
+  },
+  {
+    "nome": "Kit 6 Toalhas Grande",
+    "preco": "R$ 55,90",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-lxobzeqtztkm01.webp",
+    "link": "https://s.shopee.com.br/70CQKviJIp",
+    "categoria": "Casa",
+    "descricao": "Kit 6 Toalhas Grande 100% Algodão Luxo Macia Várias Cores"
+  },
+  {
+    "nome": "KIT Utensílios Para Cozinha em Silicone",
+    "preco": "R$ 19,99",
+    "imagem": "https://down-bs-br.img.susercontent.com/sg-11134201-7reos-m25yydf7km9o9f.webp",
+    "link": "https://s.shopee.com.br/5fh2kXLIsC",
+    "categoria": "Casa",
+    "descricao": " KIT Utensílios Para Cozinha em Silicone e Bambu 12 Peças novo 2025"
+  },
+  {
+    "nome": "Trio de Vasos Cachepot com Suport",
+    "preco": "R$ 35,91",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134201-23030-si0tln8kk4nvc6.webp",
+    "link": "https://s.shopee.com.br/2LQamSxFUd",
+    "categoria": "Casa",
+    "descricao": "Trio de Vasos Cachepot com Suporte Para Cactos ou Suculentas"
+  },
+  {
+    "nome": "Varal De Chão Roupa 3 Andares",
+    "preco": "R$ 69,67",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-lx9qolhaesnm1a.webp",
+    "link": "https://s.shopee.com.br/2g3RB8CMmG",
+    "categoria": "Casa",
+    "descricao": "Varal De Chão Roupa Calcinha Prateleiras 3 Andares Dobrável Portátil"
+  },
+  {
+    "nome": "Short Alfaiataria Feminino Social Cintura Alta",
+    "preco": "R$ 20,80",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-m0mbdra1fj3104.webp",
+    "link": "https://s.shopee.com.br/4LBfAFdwIL",
+    "categoria": "Moda",
+    "descricao": "Short Alfaiataria Feminino Social Cintura Alta Com Cinto Com Bolso "
+  },
+  {
+    "nome": "Mini Umidificador Difusor Portátil",
+    "preco": "R$ 16,88",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-m0iecyqtcn7lb0.webp",
+    "link": "https://s.shopee.com.br/5L4CM9GzCi",
+    "categoria": "casa",
+    "descricao": "Mini Umidificador Difusor Aromatizador Egg Portátil Usb Led Aromatizador De Ambiente Purificador De Ar Casa Escritório"
+  },
+  {
+    "nome": "Limpa Tênis Spray Premium",
+    "preco": "R$ 21,90",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-ln294i2qa7nn2f.webp",
+    "link": "https://s.shopee.com.br/2g3RBILSPv",
+    "categoria": "Moda",
+    "descricao": "Limpa Tênis Spray Premium Provita Limpeza Profunda 500ml"
+  },
+  {
+    "nome": "Lixeira com Sensor Automático",
+    "preco": "R$ 79,99",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-lv205cqzejdp98.webp",
+    "link": "https://s.shopee.com.br/6VG9kXAsvn",
+    "categoria": "casa",
+    "descricao": "Lixeira com Sensor Automático Inteligente Abre Fácil em Toque Cesto Lixo Banheiro Cozinha Escritório 16 Litros"
+  },
+  {
+    "nome": "Cortina Blackout ",
+    "preco": "R$ 35,98",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-m84shxe4v8c1d9.webp",
+    "link": "https://s.shopee.com.br/3AzhmSrA2k",
+    "categoria": "Casa",
+    "descricao": "Cortina Blackout Para Quarto Sala Cozinha PVC Corta 100% Luz 2,80 Largura X 2,30 Altura Grande"
+  },
+  {
+    "nome": "Mop Spray ",
+    "preco": "R$ 32,99",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-m7z8j51x6fap99.webp",
+    "link": "https://s.shopee.com.br/8V1E8JimBY",
+    "categoria": "casa",
+    "descricao": "Mop Spray Refil de Microfibra Com Reservatório"
+  },
+  {
+    "nome": "Conjunto De Cuidados Capilares",
+    "preco": "R$ 28,35",
+    "imagem": "https://down-bs-br.img.susercontent.com/sg-11134201-821dq-mgzc806361hkf4.webp",
+    "link": "https://s.shopee.com.br/10vDCZwutq",
+    "categoria": "Moda",
+    "descricao": "Conjunto De Cuidados Capilares De 4 Peças : Pente De Cabelo + Frasco De Spray De Alta Pressão De 200 Ml Tintura Oco"
+  },
+  {
+    "nome": "https://down-bs-br.img.susercontent.com/sg-11134201-821dq-mgzc806361hkf4.webp",
+    "preco": "R$ 12,87",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-m1ueptqq2qi24e.webp",
+    "link": "https://s.shopee.com.br/12g0nH6wP",
+    "categoria": "Moda",
+    "descricao": "Kit 2 Esfoliante Corpo e Rosto Porán"
+  },
+  {
+    "nome": "Vestido longo MultiFormas ",
+    "preco": "R$ 29,99",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-lu4zgqvo0mlcae.webp",
+    "link": "https://s.shopee.com.br/5L4CMfqSNF",
+    "categoria": "Moda",
+    "descricao": "wistlefashion Vestido longo MultiFormas Madrinhas Casamento Festas Cores 40% desconto frete gratis"
+  },
+  {
+    "nome": "Kit de Maquiagens 10 Produtos",
+    "preco": "R$ 67,99",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-m7jqdqpjxz8y02.webp",
+    "link": "https://s.shopee.com.br/qbn0RXB7S",
+    "categoria": "Moda",
+    "descricao": "Kit de Maquiagens 10 Produtos Ruby Rose Melu Vivai Spcolors Melhores Marcas Dia das Crianças Menina"
+  },
+  {
+    "nome": "Faixa De Luz LED Com Bluetooth ",
+    "preco": "R$ 10,88",
+    "imagem": "https://down-bs-br.img.susercontent.com/sg-11134201-821db-mgz657h5mv4f58.webp",
+    "link": "https://s.shopee.com.br/50RLy92ptz",
+    "categoria": "tecnologia",
+    "descricao": "Faixa De Luz LED Com Bluetooth , Luzes RGB , Lâmpada Flexível , Fita , Autoadesiva , TV , Desktop , Diodo , De Fundo"
+  },
+  {
+    "nome": "KIT 3 Caixa de Armazenamento de Roupas",
+    "preco": "R$ 19,99",
+    "imagem": "https://down-bs-br.img.susercontent.com/sg-11134201-7rdxd-mc87p4eh178gb7.webp",
+    "link": "https://s.shopee.com.br/qbn0YULmu",
+    "categoria": "Casa",
+    "descricao": "KIT 3 Caixa de Armazenamento de Roupas e Brinquedos Infantis com Tampa para Íntimas e Calças-47*28*20cm"
+  },
+  {
+    "nome": "Fone De Ouvido Sem Fio",
+    "preco": "R$ 22,98",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-ly5c6nwvqtiv8c.webp",
+    "link": "https://s.shopee.com.br/8fKeL94Tv1",
+    "categoria": "tecnologia",
+    "descricao": "Fone De Ouvido Sem Fio Xiaomi Redmi Airdots 2 Preto"
+  },
+  {
+    "nome": "Kit 10 ou 5 Potes Vidro Hermético",
+    "preco": "R$ 55,97",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-lqw4b1nyjsb1e8.webp",
+    "link": "https://s.shopee.com.br/2qMrOTGg3X",
+    "categoria": "casa",
+    "descricao": "Kit 10 ou 5 Potes Vidro Hermético 1040ml Retangular 4 Travas Marmita Premium"
+  },
+  {
+    "nome": "Massageador Elétrico Alta Frequência",
+    "preco": "R$ 29,99",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134211-7r98o-lor192lx4tp1bd.webp",
+    "link": "https://s.shopee.com.br/5AkmAoWysw",
+    "categoria": "tecnologia",
+    "descricao": "Massageador Elétrico Alta Frequência Profissional Muscular Massagem"
+  },
+  {
+    "nome": "Bolsa portátil de garrafa de água",
+    "preco": "R$ 24,98",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-mbnv7l3ljf6v53.webp",
+    "link": "https://s.shopee.com.br/804xY47meh",
+    "categoria": "Moda",
+    "descricao": "Bolsa portátil de garrafa de água, com saco de telefone celular, para 40/30 oz"
+  },
+  {
+    "nome": "KIT 3 Cropped Gola Alta",
+    "preco": "R$ 19,79",
+    "imagem": "https://down-bs-br.img.susercontent.com/sg-11134201-22100-7f2s3y2eh7iv58.webp",
+    "link": "https://s.shopee.com.br/50RLyaeKJa",
+    "categoria": "Moda",
+    "descricao": "KIT 3 Cropped Gola Alta Canelado Sem Manga Verão Praia"
+  },
+  {
+    "nome": "Sanduicheira Elétrica",
+    "preco": "R$ 126,90",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-m1ziu831ixgkf1.webp",
+    "link": "https://s.shopee.com.br/AA9S88NqSr",
+    "categoria": "casa",
+    "descricao": "Sanduicheira Elétrica Misteira Multifunções SAN400 Preto - Cadence"
+  },
+  {
+    "nome": "Seladora à Vácuo",
+    "preco": "R$ 36,99",
+    "imagem": "https://down-bs-br.img.susercontent.com/8219f7187cf57c3b509f276fea512aea.webp",
+    "link": "https://s.shopee.com.br/2qMrOiawoc",
+    "categoria": "casa",
+    "descricao": "Seladora à Vácuo para Armazenar Alimentos Domésticos Embaladora a Vácuo"
+  },
+  {
+    "nome": "Kit Jogo Talheres Inox 24pçs",
+    "preco": "R$ 37,99",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-lu4r10pyvfj420.webp",
+    "link": "https://s.shopee.com.br/7V8gxLDdiE",
+    "categoria": "casa",
+    "descricao": "Kit Jogo Talheres Inox 24pçs Slim faqueiro Em Aço para cozinha utensílios domésticos"
+  },
+  {
+    "nome": "Kit brinquedos com, som, luz e sensor",
+    "preco": "R$ 24,88",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-macumb98fibza4.webp",
+    "link": "https://s.shopee.com.br/9pWbjnR7Cm",
+    "categoria": "presentear",
+    "descricao": "Kit Pato Caranguejo Fujão Patinho Brinquedo Dançante Musical Dançarino Anda Mexe com Luz Som Sensor"
+  },
+  {
+    "nome": "Kit até 10 Cabeceira De Cama Casal",
+    "preco": "R$ 27,95",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-mct9733wmipe55.webp",
+    "link": "https://s.shopee.com.br/AUmIX4IxwU",
+    "categoria": "casa",
+    "descricao": "Kit até 10 Cabeceira De Cama Casal - Envio FULL 20x40cm"
+  },
+  {
+    "nome": "Espremedor Elétrico Laranja Limão Frutas",
+    "preco": "R$ 69,90",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-lqy7j7hfu7foe4.webp",
+    "link": "https://s.shopee.com.br/9fDBXaC3f8",
+    "categoria": "casa",
+    "descricao": "Espremedor Elétrico Laranja Limão Frutas Fazer Sucos Recarregável usb"
+  },
+  {
+    "nome": "Cozinha Infantil Completa",
+    "preco": "R$ 79,90",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-mcc4vbv1z9ij8d.webp",
+    "link": "https://s.shopee.com.br/8AONkrll7i",
+    "categoria": "presentear",
+    "descricao": "Cozinha Infantil Completa de Brinquedo com Luz e Som Sai Água Geladeira Fogão"
+  },
+  {
+    "nome": "Short Feminino Alfaiataria com Cinto",
+    "preco": "R$ 30,90",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-lyoih2n5rs0l6c.webp",
+    "link": "https://s.shopee.com.br/7V8gxgrU6K",
+    "categoria": "Moda",
+    "descricao": "Short Feminino Alfaiataria com Cinto Social cintura alta"
+  },
+  {
+    "nome": "Blusa De Moletom Racing Automobilismo",
+    "preco": "R$ 64,26",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7qukw-lhkr1ftyf91394.webp",
+    "link": "https://s.shopee.com.br/4q7vmr01KU",
+    "categoria": "Moda",
+    "descricao": "Blusa De Moletom Racing Automobilismo Gp Moto Carro Corrida BMW Escolha O Seu"
+  },
+  {
+    "nome": "Kit Bolsa Maternidade Menino/Menina",
+    "preco": "R$ 129,90",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-ma97jxylo71y05.webp",
+    "link": "https://s.shopee.com.br/4q7vmucPEf",
+    "categoria": "presentear",
+    "descricao": "Kit Bolsa Maternidade Menino/Menina Mala de Luxo Térmica Impermeável Luender Baby"
+  },
+  {
+    "nome": "Camiseta T-shirt Unissex Streetwar New York",
+    "preco": "R$ 12,90",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-m909omdpnb42b6.webp",
+    "link": "https://s.shopee.com.br/9UtlLgtSXB",
+    "categoria": "Moda",
+    "descricao": "Camiseta T-shirt Unissex Streetwar New York King 93"
+  },
+  {
+    "nome": "KIT COMPLETO Karseell",
+    "preco": "R$ 48,99",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-lypq55fxs8lxa8.webp",
+    "link": "https://s.shopee.com.br/VywdElhUR",
+    "categoria": "Moda",
+    "descricao": "KIT COMPLETO MASCARA + SHAMPOO + CONDICIONADOR KARSEELL ORIGINAL MACA POWER COLLAGEN ORIGINAL IMPORTADO Karseell "
+  },
+  {
+    "nome": "Mixer Elétrico para Bebidas ",
+    "preco": "R$ 21,99",
+    "imagem": "https://down-bs-br.img.susercontent.com/sg-11134201-7rd48-lupf3z3a40mxf1.webp",
+    "link": "https://s.shopee.com.br/8pe4Ye99Yd",
+    "categoria": "casa",
+    "descricao": "Batedor Misturador Mixer Elétrico para Bebidas Leite Café Clara de Ovo 2 em 1"
+  },
+  {
+    "nome": "Tapete Passadeira 2,00 x 0,60 Corredor ",
+    "preco": "R$ 16,80",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-macr7gj8pdvza4.webp",
+    "link": "https://s.shopee.com.br/9fDBYDn6JO",
+    "categoria": "Casa",
+    "descricao": "Tapete Passadeira 2,00 x 0,60 Corredor Quarto Sala Beira de Cama Felpudo Peludo"
+  },
+  {
+    "nome": "Conjunto Feminino",
+    "preco": "R$ 59,90",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-lzfbshba7wox2c.webp",
+    "link": "https://s.shopee.com.br/12g2WmkhU",
+    "categoria": "Moda",
+    "descricao": "Conjunto Feminino Varias Cores Lançamento Verão Short e Blusa"
+  },
+  {
+    "nome": "Tênis Meia Feminino ",
+    "preco": "R$ 28,90",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7qukw-ljymrrce03uy37.webp",
+    "link": "https://s.shopee.com.br/gIMpoZnc9",
+    "categoria": "Moda",
+    "descricao": "Tênis Meia Feminino"
+  },
+  {
+    "nome": "Fruteira de Mesa 2 Andares ",
+    "preco": "R$ 28,99",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-mb9n2qyadt3j96.webp",
+    "link": "https://s.shopee.com.br/3LJ80lJy1C",
+    "categoria": "casa",
+    "descricao": "Fruteira de Mesa 2 Andares Ferro e Bambu para Café da Manhã Multiuso de Metal Preto Cesto Organizdo"
+  },
+  {
+    "nome": "Kit com 3 Óleos de Tratamento Coco",
+    "preco": "R$ 44,55",
+    "imagem": "https://down-bs-br.img.susercontent.com/sg-11134201-7rasi-maeh3p8exdu8d2.webp",
+    "link": "https://s.shopee.com.br/6fZZyvbKvp",
+    "categoria": "Moda",
+    "descricao": "Kit com 3 Óleos de Tratamento Coco, Super Óleos e Multibenefícios"
+  },
+  {
+    "nome": "Sandália Infantil Menina Confortável",
+    "preco": "R$ 52,90",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-81z1k-mgr400t50etgb3.webp",
+    "link": "https://s.shopee.com.br/5AkmCDWxzV",
+    "categoria": "presentear",
+    "descricao": "Sandália Infantil Menina Confortável Com Bolsinha Elegante Estilosa"
+  },
+  {
+    "nome": "Patinete Infantil 3 Rodas De Led",
+    "preco": "R$ 69,90",
+    "imagem": "https://down-bs-br.img.susercontent.com/sg-11134201-7rdwx-mdoosqc2k9xx26.webp",
+    "link": "https://s.shopee.com.br/8V1EAOnvqD",
+    "categoria": "presentear",
+    "descricao": "Patinete Infantil 3 Rodas De Led Dobrável Scooter Crianças"
+  },
+  {
+    "nome": "Escova De Shampoo De Silicone",
+    "preco": "R$ 7,36",
+    "imagem": "https://down-bs-br.img.susercontent.com/sg-11134201-821f5-mh8exxrx2aru7c.webp",
+    "link": "https://s.shopee.com.br/1VrTpZiVA5",
+    "categoria": "Moda",
+    "descricao": "Escova De Shampoo De Silicone Macio Limpa E Remove Caspa , Massageia O Couro Cabeludo Alivia Coceira"
+  },
+  
+{
+    "nome": "Drone HD Câmera Dupla",
+    "preco": "R$ 80,84",
+    "imagem": "https://down-zl-br.img.susercontent.com/sg-11134201-821g2-mgzcn85y08b3d1.webp",
+    "link": "https://s.shopee.com.br/AA9S4JISKr",
+    "categoria": "presentear",
+    "descricao": "E88 Pro Drone HD Câmera Dupla Posicionamento WiFi FPV Altura Manter Profissional Quadricóptero RC"
+  },
+
+
+  {
     "nome": "Caderno Tipo Inteligente",
     "preco": "R$ 13,99",
     "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-mbuiwiywqont04.webp",
