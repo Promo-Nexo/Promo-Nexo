@@ -1,4 +1,344 @@
 [
+
+   {
+    "nome": "Gloss Liphoney",
+    "preco": "R$ 19,99",
+    "imagem": "https://down-bs-br.img.susercontent.com/sg-11134201-824gj-mfbekvez5s0a45.webp",
+    "link": "https://s.shopee.com.br/8fKfwE04bY",
+    "categoria": "Moda",
+    "descricao": "Franciny Ehlke Gloss Liphoney (Seu Novo Companheiro Inseparável, Gloss Mel)"
+  },
+   {
+    "nome": "Kit 3 Body Feminino",
+    "preco": "R$ 25,99",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-mc2e5qhj61txaa.webp",
+    "link": "https://s.shopee.com.br/12hcW10t4",
+    "categoria": "Moda",
+    "descricao": "Kit 3 Body Feminino Decote Quadrado Manga Curta Tecido Suplex Moda Verão Tendência"
+  },
+   {
+    "nome": "Depilador Orelha Rosto Facial Elétrico",
+    "preco": "R$ 19,00",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-lxvlpf1ey9j3af.webp",
+    "link": "https://s.shopee.com.br/8pe68qMYtQ",
+    "categoria": "Moda",
+    "descricao": "Depilador de Sombrancelha Buço Nariz Orelha Rosto Facial Elétrico Tira Pelos USB Recarregável Profissional Portátil"
+  },
+   {
+    "nome": "Carmed Barbie Rose",
+    "preco": "R$ 11,97",
+    "imagem": "https://down-bs-br.img.susercontent.com/sg-11134201-824hz-meeethj5fz0h60.webp",
+    "link": "https://s.shopee.com.br/1LY5D6f2Ag",
+    "categoria": "Moda",
+    "descricao": "Hidratante Labial Carmed Barbie Rose Gold Efeito Gloss 10g"
+  },
+   {
+    "nome": "Calça Jeans Feminina Wide Leg ",
+    "preco": "R$ 64,89",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-m1nbijs770948e.webp",
+    "link": "https://s.shopee.com.br/20nm0ZS6bg",
+    "categoria": "Moda",
+    "descricao": "Calça Jeans Feminina Wide Leg Marmorizada Cintura Alta Sem Lycra"
+  },
+   {
+    "nome": "Cinta Modeladora Espartilho",
+    "preco": "R$ 25,80",
+    "imagem": "https://down-bs-br.img.susercontent.com/696dbf8561cdb0c9b1615e949ff98f15.webp",
+    "link": "https://s.shopee.com.br/8KhpYF37P6",
+    "categoria": "Moda",
+    "descricao": "Cinta Modeladora Espartilho De Emagrecimento-ENVIO IMEDIATO --8888"
+  },
+   {
+    "nome": "Calça Jeans Feminina Wide Leg LEVES DEFEITOS",
+    "preco": "R$ 49,90",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-81z1k-meehg61kyayq24.webp",
+    "link": "https://s.shopee.com.br/3AzjOnPyYF",
+    "categoria": "Moda",
+    "descricao": "Calça Jeans Feminina Wide Leg LEVES DEFEITOS Alto Padrão Lançamento"
+  },
+   {
+    "nome": "Meia Média Compressão Varizes",
+    "preco": "R$ 19,90",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-m2l6viyajrird2.webp",
+    "link": "https://s.shopee.com.br/8zxWLerP0t",
+    "categoria": "Moda",
+    "descricao": "Par Meia Média Compressão Varizes Pernas Cansadas Inchaço Dores 3/4 Zíper 20-30 Mmhg Compressão Unissex"
+  },
+   {
+    "nome": "CALÇA FEMININA ALFAIATARIA ZARA",
+    "preco": "R$ 43,58",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-m6evx62ti3ao10.webp",
+    "link": "https://s.shopee.com.br/5fh4Nbbfr1",
+    "categoria": "Moda",
+    "descricao": "CALÇA FEMININA ALFAIATARIA ZARA CINTURA ALTA COM ZÍPER NA LATERAL ACOMPANHA CINTO"
+  },
+   {
+    "nome": "Blusa academia dia a dia básica",
+    "preco": "R$ 23,99",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-ma01z8ie0md5d1.webp",
+    "link": "https://s.shopee.com.br/AUmK8YM3ew",
+    "categoria": "Moda",
+    "descricao": "Blusa academia dia a dia básica suplex manguinha"
+  },
+   {
+    "nome": "Short Saia Feminino Alfaiataria Neoprene",
+    "preco": "R$ 24,90",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-mbs590ql2obre5.webp",
+    "link": "https://s.shopee.com.br/6AdKygVf72",
+    "categoria": "Moda",
+    "descricao": "Short Saia Feminino Alfaiataria Neoprene Fivela Dourada Cintura Alta Moda Elegante P ao GG"
+  },
+   {
+    "nome": "Calça Wide Leg Jeans Feminina Cintura Alta Pantalona",
+    "preco": "R$ 64,90",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-81z1k-mftpfyzvikn40c.webp",
+    "link": "https://s.shopee.com.br/1LY5Dq9K11",
+    "categoria": "Moda",
+    "descricao": "Calça Wide Leg Jeans Feminina Cintura Alta Pantalona"
+  },
+   {
+    "nome": "Kit Ferramenta Chave Magnética ",
+    "preco": "R$ 13,99",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-lnt2v53wp64n47.webp",
+    "link": "https://s.shopee.com.br/4VV6zofxX0",
+    "categoria": "presentear",
+    "descricao": "Kit Ferramenta Chave Magnética Precisão 24 Peças Pequenos Reparos Iphone Android Pc"
+  },
+   {
+    "nome": "Suporte De Celular Tripé",
+    "preco": "R$ 11,88",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-lnmxzuktskpb50.webp",
+    "link": "https://s.shopee.com.br/4AsGbFooeR",
+    "categoria": "tecnologia",
+    "descricao": "Suporte De Celular Tripé Para Mesa Ideal Para Gravação de Vídeos Ajustável 360°"
+  },
+   {
+    "nome": "Projetor Led Natal",
+    "preco": "R$ 39,99",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-81z1k-mgdqv550dp1caf.webp",
+    "link": "https://s.shopee.com.br/7V8iZQsa8L",
+    "categoria": "natal",
+    "descricao": "Projetor Led Natal Laser Jardim Desenhos Natalinos 886 Luz Colorida Decoração"
+  },
+   {
+    "nome": "Batedeira Philco 4L",
+    "preco": "R$ 84,90",
+    "imagem": "https://down-bs-br.img.susercontent.com/sg-11134201-821dg-mgnmmxims8i3a6.webp",
+    "link": "https://s.shopee.com.br/6AdKz1nZs4",
+    "categoria": "casa",
+    "descricao": "Batedeira Philco 4L Preta 500W Paris Duo Mixer Turbo|"
+  },
+   {
+    "nome": "Cortina 300 Leds 3x3 Metros",
+    "preco": "R$ 28,99",
+    "imagem": "https://down-bs-br.img.susercontent.com/sg-11134201-7rdvz-m0fymhjezrt071.webp",
+    "link": "https://s.shopee.com.br/2g3SodZIAz",
+    "categoria": "natal",
+    "descricao": "Cortina 300 Leds 3x3 Metros Festa Casamento Eventos Natal Branco Amarelo"
+  },
+   {
+    "nome": "Chinelo Slide Nuvem",
+    "preco": "R$ 5,89",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-lvt9gfwkb8rwf3.webp",
+    "link": "https://s.shopee.com.br/1VrVQYKaSn",
+    "categoria": "presentear",
+    "descricao": "Chinelo Slide Nuvem Mega Promoção Oficial"
+  },
+   {
+    "nome": "Campainha Com Câmera Vídeo",
+    "preco": "R$ 47,99",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7qukw-li1u0y8qr9ct0b.webp",
+    "link": "https://s.shopee.com.br/4foXCWvcln",
+    "categoria": "casa",
+    "descricao": "Campainha Com Câmera Vídeo Porteiro Sem Fio Wi-Fi HD Inteligente Smart Home Vê Pelo Celular Recarregável"
+  },
+   {
+    "nome": "Tênis Masculino Feminino",
+    "preco": "R$ 26,35",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-lzxl6mp8l7wh12.webp",
+    "link": "https://s.shopee.com.br/7V8iZnwQBG",
+    "categoria": "Moda",
+    "descricao": "Tênis Masculino Feminino SNR Confortavel Dia a Dia"
+  },
+   
+   {
+    "nome": "Kit 3 Unidades Sabonete Líquido Chá Branco ",
+    "preco": "R$ 38,61",
+    "imagem": "https://down-bs-br.img.susercontent.com/sg-11134201-7rcdm-lsmmx91ngz5jbd.webp",
+    "link": "https://s.shopee.com.br/1VrVQsLEsx",
+    "categoria": "casa",
+    "descricao": "Kit 3 Unidades Sabonete Líquido Chá Branco 500 ml"
+  },
+   {
+    "nome": "Cascata de Led 8 Funções até 10 Metros ",
+    "preco": "R$ 17,99",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-ln9abs00lszf7b.webp",
+    "link": "https://s.shopee.com.br/8KhpZTgsn4",
+    "categoria": "natal",
+    "descricao": "Cascata de Led 8 Funções até 10 Metros Decoração Natalina Luzes Pisca Pisca Led Natal Iluminação"
+  },
+   {
+    "nome": "Caixa de som Bluetooth Portátil ",
+    "preco": "R$ 98,99",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-lqo1mmf95gcjc2.webp",
+    "link": "https://s.shopee.com.br/1gAvdHeBBT",
+    "categoria": "tecnologia",
+    "descricao": "Caixa de som Bluetooth Portátil Com Led RGB Portátil FM USB TWS 30W Para Praia, Festa ou Viagem"
+  },
+   {
+    "nome": "Luminária De Teto Dobrável ",
+    "preco": "R$ 19,88",
+    "imagem": "",
+    "link": "httphttps://down-bs-br.img.susercontent.com/sg-11134201-7rdxa-mc4wsliw1i3ce4.webp/s.shopee.com.br/7KpINk8fFa",
+    "categoria": "tecnologia",
+    "descricao": "Luminária De Teto Dobrável Lâmpada De Pétalas 6000K 28w Para Quarto / Sala De Estar / Casa / E27 Mini Luz De Folhas"
+  },
+   {
+    "nome": "10M Fita LED 5050 SUPER LED",
+    "preco": "R$ 20,90",
+    "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-m8zkm9n2xoahde.webp",
+    "link": "https://s.shopee.com.br/8KhpZdhF7d",
+    "categoria": "tecnologia",
+    "descricao": "10M Fita LED 5050 SUPER LED ULTRA RGB 12V 300 LEDS FITA + CONTROLE + FONTE | 16 CORES IP20"
+  },
+   {
+    "nome": "Chinelo Sandália Com Brilho Feminino ",
+    "preco": "R$ 21,00",
+    "imagem": "https://down-zl-br.img.susercontent.com/br-11134207-81z1k-mgaqw685sm4g61.webp",
+    "link": "https://s.shopee.com.br/1VrVRI6PBe",
+    "categoria": "Moda",
+    "descricao": "Chinelo Sandália Com Brilho Feminino Adulto Confortável Lançamento 2025"
+  },
+   {
+    "nome": "Lixeira Sensor Automática ",
+    "preco": "R$ 72,99",
+    "imagem": "https://down-zl-br.img.susercontent.com/br-11134207-7r98o-mcjkoeu65udd4c.webp",
+    "link": "https://s.shopee.com.br/30gJE5zU1T",
+    "categoria": "casa",
+    "descricao": "Lixeira Sensor Automática Inteligente de Banheiro Cozinha Escritório Capacidade 16 Litros"
+  },
+   {
+    "nome": "Escova Sanitária De Silicone",
+    "preco": "R$ 10,00",
+    "imagem": "https://down-zl-br.img.susercontent.com/sg-11134201-7rblw-lp1laze4jfba29.webp",
+    "link": "https://s.shopee.com.br/6pt1nC5bkR",
+    "categoria": "casa",
+    "descricao": "Escova Sanitária De Silicone Com Suporte e Adesivo para Banheiro"
+  },
+   {
+    "nome": "10m Cascata 400 Led 8 Funções Decoração",
+    "preco": "R$ 59,99",
+    "imagem": "https://down-zl-br.img.susercontent.com/sg-11134201-821g2-mgxsel1mknwu4f.webp",
+    "link": "https://s.shopee.com.br/20nm2ME48M",
+    "categoria": "natal",
+    "descricao": "10m Cascata 400 Led 8 Funções Decoração Natal 110v 220v conexão macho Branco Frio Quente Pisca Pisca Enfeites de Natal"
+  },
+   {
+    "nome": "Carregador De Chaveiro Portátil ",
+    "preco": "R$ 14,89",
+    "imagem": "https://down-zl-br.img.susercontent.com/br-11134207-7r98o-lqm31s2n7ehz9c.webp",
+    "link": "https://s.shopee.com.br/4foXDIyEWg",
+    "categoria": "tecnologia",
+    "descricao": "Carregador De Chaveiro Portátil | 1500mAh Ultra-Compacto Mini Pacote De Bateria Carregamento Rápido"
+  },
+   {
+    "nome": "Mochila de Viagem MascuIina e Feminina",
+    "preco": "R$ 139,98",
+    "imagem": "https://down-zl-br.img.susercontent.com/br-11134207-7r98o-m1w7amozm50159.webp",
+    "link": "https://s.shopee.com.br/4foXDLAh32",
+    "categoria": "presentear",
+    "descricao": "ROMANTIC CROWN Mochila de Viagem MascuIina e Feminina ImpermeaveI Reforçada Executiva para Notebook"
+  },
+   {
+    "nome": "Guarda Chuva Sombrinha Pequeno",
+    "preco": "R$ 14,93",
+    "imagem": "https://down-zl-br.img.susercontent.com/sg-11134201-7rdwy-md7pxyespd4ne4.webp",
+    "link": "https://s.shopee.com.br/2LQcR6IMej",
+    "categoria": "casa",
+    "descricao": "Guarda Chuva Sombrinha Pequeno Com Proteção Solar Uv Contra Vento Cor Sortidos aleatórias 565"
+  },
+   {
+    "nome": "Escova de dentes elétrica",
+    "preco": "R$ 18,99",
+    "imagem": "https://down-zl-br.img.susercontent.com/br-11134207-7r98o-ly71fhy25v9x92.webp",
+    "link": "https://s.shopee.com.br/7KpIOUpg98",
+    "categoria": "tecnologia",
+    "descricao": "Escova de dentes elétrica recarregável Sonic IPX7"
+  },
+   {
+    "nome": "Porta Papel Toalha Triplo Suporte",
+    "preco": "R$ 17,99",
+    "imagem": "https://down-zl-br.img.susercontent.com/sg-11134201-7qvev-lkip3hpw8hvuc1.webp",
+    "link": "https://s.shopee.com.br/60Juo6xTBa",
+    "categoria": "casa",
+    "descricao": "Porta Papel Toalha Triplo Suporte Rolos de Cozinha 3 em 1"
+  },
+   {
+    "nome": "Sandália Saltinho Tira de Strass",
+    "preco": "R$ 42,42",
+    "imagem": "https://down-zl-br.img.susercontent.com/br-11134207-7r98o-m61mds1qcoedc1.webp",
+    "link": "https://s.shopee.com.br/2B7CF62WZi",
+    "categoria": "Moda",
+    "descricao": "Sandália Saltinho Tira de Strass"
+  },
+   {
+    "nome": "Limpador de máquina de lavar",
+    "preco": "R$ 8,59",
+    "imagem": "https://down-zl-br.img.susercontent.com/br-11134207-7r98o-mcge8tb73vup63.webp",
+    "link": "https://s.shopee.com.br/2B7CF8S2uu",
+    "categoria": "casa",
+    "descricao": "Limpador de máquina de lavar, comprimido efervescente sólido para remover manchas"
+  },
+   {
+    "nome": "Fatiador E Descascador 2 Em 1 ",
+    "preco": "R$ 10,88",
+    "imagem": "https://down-zl-br.img.susercontent.com/sg-11134201-7rd4g-lvb8pi2iuxyr32.webp",
+    "link": "https://s.shopee.com.br/5q0Ubuqwgt",
+    "categoria": "casa",
+    "descricao": ""
+  },
+   {
+    "nome": "Panos De Limpeza Aço Premium Arear ",
+    "preco": "R$ 12,99",
+    "imagem": "https://down-zl-br.img.susercontent.com/br-11134207-7r98o-mctxxpi1l4qad6.webp",
+    "link": "https://s.shopee.com.br/9fDDB1WKye",
+    "categoria": "casa",
+    "descricao": "Kit 6/12/18/24 Panos De Limpeza Aço Premium Arear Panela Fogão Toalha Louça Tira Gordura Reutilizável"
+  },
+   {
+    "nome": "Papete Feminina Sandália Brilho",
+    "preco": "R$ 17,99",
+    "imagem": "https://down-zl-br.img.susercontent.com/br-11134207-7r98o-mchp4m6f8xtee4.webp",
+    "link": "https://s.shopee.com.br/7plYzgTi1O",
+    "categoria": "Moda",
+    "descricao": "Papete Feminina Sandália Brilho Combina Com Diversos Looks Moda Versátil"
+  },
+   {
+    "nome": "Bolsa De Viagem Mala Dobráve",
+    "preco": "R$ 14,98",
+    "imagem": "https://down-zl-br.img.susercontent.com/sg-11134201-7rccz-ls09d6ye3xg2fc.webp",
+    "link": "https://s.shopee.com.br/2B7CFKIrrB",
+    "categoria": "Moda",
+    "descricao": "Bolsa De Viagem Mala Dobrável Capacidade Impermeável"
+  },
+   {
+    "nome": "Fatiador De Legumes Kitop",
+    "preco": "R$ 19,00",
+    "imagem": "https://down-zl-br.img.susercontent.com/2148a492309aaef6bcacf4f7158d642a.webp",
+    "link": "https://s.shopee.com.br/30gJEtNger",
+    "categoria": "casa",
+    "descricao": "Fatiador De Legumes Kitop Corta Couve Repolho Fino Prático"
+  },
+
+ {
+    "nome": "Kit 20 Adesivos Protetores de Ralo Tela Descartavel",
+    "preco": "R$ 7,22",
+    "imagem": "https://down-zl-br.img.susercontent.com/br-11134207-81z1k-mfu5cdidg5c593.webp",
+    "link": "https://s.shopee.com.br/8V1Fn35w8J",
+    "categoria": "casa",
+    "descricao": "Kit 20 Adesivos Protetores de Ralo Tela Descartavel Anti Entupimento Anti Insetos Casa Fácil Pratico"
+  },
+
   {
     "nome": "Espelho Grande de Parede Corpo Inteiro",
     "preco": "R$ 85,90",
